@@ -1,0 +1,4 @@
+clc
+clear variables
+close all force
+
